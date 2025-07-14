@@ -19,6 +19,20 @@ I believe in:
 
 ---
 
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
 ## 💡 Technologies I Love Working With
 
 **• Mobile:**  
@@ -63,15 +77,7 @@ I'm always open to new opportunities, collaborations, and ideas.
 Feel free to reach out!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ajay-g-72a18a201/)
-- 📧 Email: ajaygol.dev@gmail.com
+- 📧 Email: ajaygoldev@gmail.com
 - 🌐 Portfolio: [) _(update if you have one)_
 
 ---
-
-### 🛠️ Languages and Tools:
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
