@@ -68,5 +68,10 @@ Feel free to reach out!
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AjayGol&theme=tokyonight&hide_border=true)
-![Ajay's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AjayGol&theme=tokyo-night)
+### 🛠️ Languages and Tools:
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node-dot-js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat&logo=expo&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
