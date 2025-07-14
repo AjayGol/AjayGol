@@ -62,11 +62,11 @@ Push Notifications, Deep Linking, Payment Integration, Performance Optimization
 I'm always open to new opportunities, collaborations, and ideas.  
 Feel free to reach out!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ajaygol)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ajay-g-72a18a201/)
 - 📧 Email: ajaygol.dev@gmail.com
-- 🌐 Portfolio: [https://ajaygol.dev](https://ajaygol.dev) _(update if you have one)_
+- 🌐 Portfolio: [) _(update if you have one)_
 
 ---
 
-![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjayGol&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayGol&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AjayGol&theme=tokyonight&hide_border=true)
+![Ajay's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AjayGol&theme=tokyo-night)
