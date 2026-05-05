@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🌟 Welcome to My GitHub!  
-Hi, I’m **Ajay Gol**, a passionate and results-driven **React Native Developer** with over **5 years of professional experience** crafting high-performance mobile applications. I thrive on turning ideas into sleek, scalable, and user-friendly digital products.
+Hi, I’m **Ajay Gol**, a passionate and results-driven **React Native Developer** with over **5+ years of professional experience** crafting high-performance mobile applications. I thrive on turning ideas into sleek, scalable, and user-friendly digital products.
 
 My core focus is mobile development using **React Native**, but I also work across the full stack, using modern technologies and tools to bring complete solutions to life — from backend logic to pixel-perfect UIs.
 
